@@ -1,0 +1,14 @@
+.g-box{
+	display: flex;
+	flex-direction: row; /** 水平放置 **/
+	justify-content: space-around;
+	align-items: flex-start;
+	height: 300px;
+}
+
+.g-col{	
+	text-align: center;	
+	width: 200px;
+	background: #EEEEEE;
+	margin: 5px;
+}
